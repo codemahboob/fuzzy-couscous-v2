@@ -1,0 +1,12 @@
+{
+  "name": "cleanglide-mop-store",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Lightweight single-page store for CleanGlide Pro Mop with COD/UPI checkout and Resend order emails.",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "resend": "^4.0.0"
+  }
+}
