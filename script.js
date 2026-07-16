@@ -1,7 +1,7 @@
 // ============ CONFIG ============
 const PRODUCT = {
-  name: "CleanGlide PVA Sponge Squeeze Mop",
-  price: 899, // INR
+  name: "Stain Rol",
+  price: 290, // INR
 };
 // TODO: replace with your real UPI ID before going live
 const UPI_VPA = "xsq@ptyes";
