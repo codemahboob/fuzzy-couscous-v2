@@ -1,7 +1,7 @@
 // ============ CONFIG ============
 const PRODUCT = {
   name: "Stain Rol",
-  price: 290, // INR
+  price: 490, // INR
 };
 // TODO: replace with your real UPI ID before going live
 const UPI_VPA = "xsq@ptyes";
