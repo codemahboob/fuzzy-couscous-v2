@@ -143,6 +143,19 @@ button{font-family:inherit;}
   letter-spacing:.06em;
   margin:0 0 8px;
 }
+.trust-badge{
+  display:inline-flex;
+  align-items:center;
+  gap:6px;
+  text-transform:none;
+  letter-spacing:normal;
+}
+.trust-badge-icon{
+  width:16px;
+  height:16px;
+  flex-shrink:0;
+  color:var(--accent);
+}
 .info h1{font-size:2rem;font-weight:800;}
 .subtitle{color:var(--muted);font-size:1.02rem;margin:0 0 18px;}
 
