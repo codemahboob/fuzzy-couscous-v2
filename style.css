@@ -80,6 +80,18 @@ button{font-family:inherit;}
 }
 
 /* ============ PRODUCT ============ */
+.product-title {
+  font-family: 'Sora', sans-serif;
+  font-size: 1.6rem;
+  font-weight: 800;
+  margin: 12px 0 4px;
+  color: #111;
+}
+.product-subtitle {
+  font-size: 0.95rem;
+  color: #666;
+  margin-bottom: 12px;
+}
 .product{
   display:grid;
   grid-template-columns:1fr 1fr;
